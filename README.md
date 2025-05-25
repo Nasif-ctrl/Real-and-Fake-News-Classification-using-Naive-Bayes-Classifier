@@ -1,1 +1,1 @@
-# Claissifying-Real-and-Fake-News-using-Na-ve-Bayes-Classifier
+# Real and Fake News Classification using Naive Bayes Classifier
